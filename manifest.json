@@ -2,7 +2,7 @@
     "manifest_version": 2,
     "name": "asdf",
     "description": "asdf",
-    "version": "116.0",
+    "version": "1.0",
     "browser_action": {
         "default_icon": "icon.jpeg",
         "default_popup": "asdf.html"
